@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "target": "es6"
+    }
+    //파일이 열려있지 않아도 자동완성 기능
+}
