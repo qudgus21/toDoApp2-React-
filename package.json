@@ -1,5 +1,5 @@
 {
-  "name": "todo-app",
+  "name": "qudgus21",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/qudgus21/toDoApp2-React-.git",
+  "author": "qudgus21 <47776356+qudgus21@users.noreply.github.com>",
+  "license": "MIT"
 }
