@@ -1,5 +1,6 @@
 import React from 'react';
 import TodoListItem from './TodoListItem';
+import { List } from 'react-virtualized';
 import './TodoList.scss';
 
 const TodoList = ({ todos, onRemove, onToggle }) => {
@@ -10,4 +11,4 @@ const TodoList = ({ todos, onRemove, onToggle }) => {
     );
 };
 
-export default TodoList;
+export default React.memo(TodoList);
